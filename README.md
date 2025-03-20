@@ -5,7 +5,7 @@
 <code>docker run -e "APP_BASE_URL=http://localhost:8080/api" -p 80:80 shopizerecomm/shopizer-admin</code>
 </br>
 
-<h3>Access: Once the site is running, you can access it at http://localhost:80.</h3>
+<h3>Access: Once the site is running, you can access it at <a>http://localhost:80</a></h3>
 <p><code>username</code>: admin@shopizer.com</p>
 <p><code>password</code>: password</p>
 
@@ -15,7 +15,7 @@
 
 <code>docker run -e "APP_MERCHANT=DEFAULT" -e "APP_BASE_URL=http://localhost:8080" -p 81:80 shopizerecomm/shopizer-shop-reactjs</code>
 
-<p>Access: Once the site is running, you can access it at http://localhost:81.</p>
+<h3>Access: Once the site is running, you can access it at <a>http://localhost:81</a></h3>
 
 API documentation:
-https://app.swaggerhub.com/apis-docs/shopizer/shopizer-rest-api/3.0.1#/
+<a>https://app.swaggerhub.com/apis-docs/shopizer/shopizer-rest-api/3.0.1#/</a>
